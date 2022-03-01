@@ -1,0 +1,4 @@
+In css there is a concept of margin collapse.
+em-> relative to parent size 
+rem-> relative to root element the html tag
+

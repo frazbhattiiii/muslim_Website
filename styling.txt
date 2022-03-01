@@ -1,0 +1,30 @@
+#heading{
+  position: relative;
+  font-size: 3vw;
+  color: #252839; ;
+  -webkit-text-stroke: 0.1vw #f0bc4c;
+  text-transform: uppercase;
+
+}
+ #heading::before{
+  content:attr(data-text);
+  position:absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  color:#01fe87;
+  -webkit-text-stroke: 0vw #383d52;
+  border-right: 4px solid #01fe87; 
+  overflow: hidden;
+  animation: animate 6s linear infinite;
+}
+@keyframes animate{
+  0%{
+    width: 0;
+  }
+  70%{
+    width:100%;
+    
+  }
+}
