@@ -1,6 +1,6 @@
 # muslim_Website
 
-A parallex website responsive front end
+Muslim 360 front end Page
 
 ## Description
 
