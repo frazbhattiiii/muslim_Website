@@ -7,4 +7,4 @@ Muslim 360 front end Page
 The Website is developed using js, css and html. Fully responsive website with some animation in text with jumping letters.
 
 ## Getting Started
-![resto](https://github.com/frazbhattiiii/images/blob/main/muslim360.png)
+![resto](https://i.ibb.co/M5DrCHd/muslim360.png)
